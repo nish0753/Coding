@@ -1,4 +1,4 @@
-/**const Person ={
+const Person ={
     name: " Nishant",
     age: 21,
     city: "Patna"
@@ -14,7 +14,7 @@ const user ={
 }
 console.log(user)
 
-// java script sirf string ko accept krta hai but yha pe integer dene ke bad v shi run ho rha hai kyu wo integer kop string me convert kr rha hai
+// java script sirf string ko accept krta hai but yha pe integer dene ke bad v shi run ho rha hai kyuki wo integer ko string me convert kr rha hai
 const Person ={
     name: "Nishant",
     age: 21,
@@ -53,7 +53,7 @@ console.log(student.name, student.age)
 // using the bracket notation
 console.log(student["name"])
 console.log(student.address.city.Pincode)
-*/
+
 
 const person ={}
 
